@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="poi-4.1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/postgresql-42.2.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/xstream-1.4.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/hessian-4.0.60.jar!/" />
+      <root url="file://$PROJECT_DIR$/libs/poi-4.1.2" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/libs/poi-4.1.2/docs/apidocs/dev" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/hessian-4.0.60-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/libs/poi-4.1.2" recursive="false" />
+  </library>
+</component>
