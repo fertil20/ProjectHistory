@@ -12,11 +12,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="api" target="1.8" />
       <module name="demo" target="1.8" />
       <module name="Maven" target="1.8" />
-      <module name="ProjectHistory" target="1.8" />
-      <module name="server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
